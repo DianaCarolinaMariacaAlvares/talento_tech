@@ -1,0 +1,5 @@
+Links de trabajos en Google Colab:
+
+pandas_tabla_con_listas_y_diccionario: https://colab.research.google.com/drive/1hWfLWEtBF6bQKS7qnIldQduUJl68cLnT?usp=drive_link
+EDA_example: https://colab.research.google.com/drive/1izmINXoyydWFWgSfjuFB1c_odjNAIbkM?usp=drive_link
+Clase_POO: https://colab.research.google.com/drive/1mogQnQzFEQ6kSTFG0BsNCkVqZpFDFaoZ?usp=drive_link
