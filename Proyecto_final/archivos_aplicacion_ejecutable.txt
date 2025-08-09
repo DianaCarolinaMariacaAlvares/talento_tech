@@ -1,0 +1,5 @@
+Link para acceder a la carpeta con archivo .py y soportes para programa GILCS (Gestor de Inventario y Lista de Compra Semanal) ejecutable: 
+
+https://drive.google.com/drive/folders/1JF4i_xtCdhvVr_kEXkNFVveAr0wVWRmE?usp=sharing
+
+Si desea acceder a la aplicación debe dirigise a la carpeta dist, archivo GILCS.exe
